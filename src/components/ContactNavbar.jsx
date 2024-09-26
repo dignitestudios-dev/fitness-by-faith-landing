@@ -7,6 +7,7 @@ const ContactNavbar = () => {
   const navigate = useNavigate();
 
   // Toggle mobile menu
+  
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
