@@ -1,0 +1,7 @@
+@import "./styles/clash-display.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
