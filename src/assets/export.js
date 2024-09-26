@@ -13,7 +13,7 @@ import speediconwhite from "./speediconwhite.png"
 import dollarwhite from "./dollarwhite.png"
 import background from "./background.png"
 import Appstore from "./Appstore.png"
-import Playstore from "./playstore.png"
+import Playstore from "./Playstore.png"
 
 
 
