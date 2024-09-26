@@ -8,7 +8,7 @@ import Testimonials from './components/Testimonials';
 import Footer from './components/Footer';
 import DownloadSection from "./components/DownloadSection";
 import './App.css';
-import ContactUs from './pages/Contactus';
+import ContactUs from './pages/ContactUs';
 
 function App() {
   return (
