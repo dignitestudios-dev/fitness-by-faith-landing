@@ -12,7 +12,7 @@ import timeiconwhite from "./timeiconwhite.png"
 import speediconwhite from "./speediconwhite.png"
 import dollarwhite from "./dollarwhite.png"
 import background from "./background.png"
-import Appstore from "./appstore.png"
+import Appstore from "./Appstore.png"
 import Playstore from "./playstore.png"
 
 
